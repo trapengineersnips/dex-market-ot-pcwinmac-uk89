@@ -1,4 +1,4 @@
-# 
+# Elite dex market making bot tools for Mac OS | Top dex market making bot tools for PC Windows. Featuring slippage control and transaction signing — optimized for maximum performance on every platform.
 
 
 
